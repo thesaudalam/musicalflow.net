@@ -1,2 +1,2 @@
 # musicalflow.net
-Saud Alam's digital designer &amp; developer portfolio
+Saud Alam's designer &amp; developer portfolio
